@@ -25,19 +25,16 @@
       "postId": 1
     }
   ],
-  "profile": 
+  "NumJackpots":2,
+  "Jackpots":
   [
-    "NumJackpots":2,
-	  "Jackpots":  
-	  [
-		{
-			"JackpotID":0,
-			"JackpotType":5
-		},
-		{
-			"JackpotID":1,
-			"JackpotType":4
-		}
-	  ]
-   ]
+	{
+		"JackpotID":0,
+		"JackpotType":5
+	},
+	{
+		"JackpotID":1,
+		"JackpotType":4
+	}
+   ]   
 }
