@@ -25,7 +25,8 @@
       "postId": 1
     }
   ],
-  "profile": {
+  "profile": 
+  [
     "NumJackpots":2,
 	  "Jackpots":  
 	  [
@@ -38,5 +39,5 @@
 			"JackpotType":4
 		}
 	  ]
-  }  
+   ]
 }
